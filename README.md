@@ -9,9 +9,13 @@ Practicing kindness and empathy, among other principles are very important to me
 🔭 Checkout some fun projects that I recently worked on
 
 <a href="https://github.com/kc127/just-dump" target="_top">Just Dump</a>
+<br>
 <a href="https://github.com/kc127/reviews-api" target="_top">Scale Reviews</a>
+<br>
 <a href="https://github.com/Magnetic-Mediterranean/Hub" target="_top">NextStop</a>
+<br>
 <a href="https://github.com/kc127/fashion-house" target="_top">Fashion House</a>
+<br>
  
 <!--
 **kc127/kc127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
