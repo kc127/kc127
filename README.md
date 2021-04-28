@@ -16,6 +16,8 @@ Practicing kindness and empathy, among other principles are very important to me
 <br>
 <a href="https://github.com/kc127/fashion-house" target="_top">Fashion House</a>
 <br>
+
+Reach out to me via <a href="https://www.linkedin.com/in/kc127/" target="_top">Linkedln</a>
  
 <!--
 **kc127/kc127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
