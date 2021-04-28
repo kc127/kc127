@@ -1,6 +1,18 @@
-### Hi there 👋 I am Kanchan
+### Hi, I am Kanchan. 
 
+I am a fullstack engineer with a bachelor's degree in computer science from Duke University and 5 years of experience in telecommunications industry as an analyst. I enjoy working in teams to develop meaningful applications using agile workflow, iterative development. My experience involves building scalable, customer focused web applications with React, Node/Express, MongoDB, MySQL, AWS, Docker among other technologies.
 
+Practicing kindness and empathy, among other principles are very important to me.
+
+ 👯 I’m looking for new opportunities where I can collaborate with awesome engineers that want to solve challenging problems to make a social impact! 
+
+🔭 Checkout some fun projects that I recently worked on
+
+<a href="https://github.com/kc127/just-dump" target="_top">Just Dump</a>
+<a href="https://github.com/kc127/reviews-api" target="_top">Scale Reviews</a>
+<a href="https://github.com/Magnetic-Mediterranean/Hub" target="_top">NextStop</a>
+<a href="https://github.com/kc127/fashion-house" target="_top">Fashion House</a>
+ 
 <!--
 **kc127/kc127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
