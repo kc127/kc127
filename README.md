@@ -20,7 +20,9 @@ Practicing kindness and empathy, among other principles are very important to me
 <br>
 
 Reach out to me via <a href="https://www.linkedin.com/in/kc127/" target="_top">Linkedln</a>
- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kc127&layout=compact)](https://github.com/kc127/github-readme-stats)
+
 <!--
 **kc127/kc127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
