@@ -1,10 +1,12 @@
 ### Hi, I am Kanchan. 
 
-I am a fullstack engineer with a bachelor's degree in computer science from Duke University and 5 years of experience in telecommunications industry as an analyst. I enjoy working in teams to develop meaningful applications using agile workflow and iterative development. My experience involves building scalable, customer focused web applications with React, Node/Express, MongoDB, MySQL, AWS, Docker among other technologies.
+I am a fullstack engineer with a bachelor's degree in computer science from Duke University and 5 years of experience in telecommunications industry as an analyst. I enjoy working in teams to develop meaningful applications using agile workflow and iterative development. My experience involves building scalable, customer focused web applications with React, Node/Express, MongoDB, MySQL, AWS, Docker to name few.
 
 Practicing kindness and empathy, among other principles are very important to me.
 
- 👯 I’m looking for new opportunities where I can collaborate with awesome engineers that want to solve challenging problems to make a social impact! 
+👯 I’m looking for new opportunities where I can collaborate with awesome engineers that want to solve challenging problems to make a social impact! 
+
+![Kanchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kc127&show_icons=true&theme=radical&count_private=true)
 
 🔭 Checkout some fun projects that I recently worked on
 
