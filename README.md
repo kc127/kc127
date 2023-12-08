@@ -3,9 +3,9 @@
 I am a full stack software engineer! I enjoy working in teams to develop meaningful applications using agile workflow and iterative development. My experience involves building scalable, customer focused web applications with React, Node/Express, MongoDB, MySQL, AWS, Docker to name a few.
 
 Practicing kindness and empathy, among other principles are very important to me. 
-
+<!--
 ![Kanchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kc127&show_icons=true&theme=radical&count_private=true)
-
+-->
 🔭 Checkout some fun projects that I recently worked on
 
 <a href="https://github.com/kc127/just-dump" target="_top">Just Dump</a>
