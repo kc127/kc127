@@ -1,4 +1,4 @@
-### Hi, I am Kanchan. 
+### git hi, I am Kanchan. 
 
 I am a full stack software engineer! I enjoy working in teams to develop meaningful applications using agile workflow and iterative development. My experience involves building scalable, customer focused web applications with React, Node/Express, MongoDB, MySQL, AWS, Docker to name a few.
 
